@@ -1,4 +1,4 @@
-# mine-ui
+# mine-one-ui
 
 ## 简介
 
@@ -17,7 +17,7 @@ npm i mine-one-ui
 ```js
 import Vue from 'vue';
 import MineUI from 'mine-one-ui';
-import 'mine-one-ui/lib/mine-one-ui.css';
+import 'mine-one-ui/dist/mine-one-ui.css';
 import App from './App.vue';
 
 Vue.use(MineUI);
